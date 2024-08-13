@@ -1,4 +1,4 @@
-class player{
+export class player{
     constructor(game){
         this.game=game;
         this.width=100;
